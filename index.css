@@ -162,12 +162,6 @@ table, td {
    border: 5px;
  }
 
- flexx-row{
-  display: flex;
-  flex-direction: column;
-  justify-content: left;
-  align-items: center;
- }
  .Chick{
    color: #F15A29;
  }
@@ -274,6 +268,7 @@ table, td {
 }
 .About-Menu h3{
   color: #f15a29;
+  font-weight: bolder;
 }
 
 .cust-image img{
