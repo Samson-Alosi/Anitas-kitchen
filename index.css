@@ -118,7 +118,7 @@
 #slides {
   padding: 80px 70px;
   background-image: url(./assets/foodsBg.jpg);
-  /* display: flex; */
+  
 }
 
 #slides .container {
@@ -168,43 +168,22 @@ table, td {
   justify-content: left;
   align-items: center;
  }
-
-  .footerbackground{
-    /* display: flex; */
-    background-size: cover;
-    /* overflow: hidden; */
-    background-image: url(./backgrounds/subscribe.jpg);
-  }
-
-  .email-box{
-    height: 40px;
-    display: flex;
-    justify-content: left;
-    padding-left: 20px;
-   
-  }
-
-  .box2{
-    padding: 25px;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .subscribe-box{
-    height: 40px;
-    display: flex;
-    justify-content: centre;
-    padding: 10px;
-  }
-
+ .Chick{
+   color: #F15A29;
+ }
+ .Beef-burger{
+   color: #F15A29;
+ }
+.Chicken-pizza{
+  color: #f15a29;
+}
   .display-flex{
     display: flex;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 
   }
-
   .fast-food{
-    padding: 50px;
+    padding: 60px;
   }
 
   .display-flex-box{
@@ -213,7 +192,7 @@ table, td {
   }
 
   .paragraph{
-    padding: 0px 50px;
+    padding: 0px 60px;
   }
 
   .paragraph .p{
