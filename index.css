@@ -198,21 +198,22 @@
 
 #slides {
   padding: 30px 40px;
-  background-image: url(./backgrounds/foodsBg.jpg);
+  background-image: url(./assets/foodsBg.jpg);
   /* display: flex; */
 }
 
 #slides .container {
-  padding: 10pxs;
+  padding: 12pxs;
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   background: white;
+
 }
 
 #slides .food-item {
-  margin: 5px;
+  margin: 7px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -289,7 +290,7 @@ table, td {
 
   .display-flex-box{
     padding: 20px;
-    box-shadow: 0px 0px 13px 5px rgba(196,196,196,1);
+    box-shadow: 0px 0px 13px 7px rgba(196,196,196,1);
   }
 
   .paragraph{
@@ -379,12 +380,12 @@ table, td {
 }
 
 .footer1{
-  height: 300px;
+  height: 200px;
   padding: 5px;
   text-align: center;
   background-position: center;
   background-size: cover;
-  background-image: url(./backgrounds/subscribe.jpg);
+  background-image: url('./assets/subscribe.jpg');
 }
 
 .get{
