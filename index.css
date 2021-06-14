@@ -31,13 +31,15 @@
   background: url('./assets/landing.jpg');
   height: 600px;
   margin: 0;
-
+  
 }
 
 .logo-image{
     text-align: center;
     width: 100%;
+    justify-content: center;
     top: 0;
+    margin-top: 0px;
 }
 
 .logo-title{
@@ -51,6 +53,7 @@
 .main-div{
   display: flex;
   height: 200px;
+  
 }
 .row1{
   width: 25%;
