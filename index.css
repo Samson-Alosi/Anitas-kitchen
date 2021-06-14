@@ -268,9 +268,12 @@ table, td {
   text-align: center;
 }
 
-.image-next{
+.About-Menu{
   padding: 5px;
   border-left: 1px solid rgb(199, 191, 191);
+}
+.About-Menu h3{
+  color: #f15a29;
 }
 
 .cust-image img{
