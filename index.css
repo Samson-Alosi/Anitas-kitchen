@@ -210,11 +210,12 @@ table, td {
     background: white;
     margin: 0px 10%;
     display: flex;
-    padding: 25px;
+    padding: 22px;
+   
   }
 
  .arrow {
-   margin: 100px 0px;
+   margin: 100px 10px;
  }
 
  .bar{
